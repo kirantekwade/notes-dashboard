@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "App_Secret_Key": "VXNlIHRoaXMga2V5IGZvciBlbmNvZGUgdGhlIHN0cmluZw=="
+}
